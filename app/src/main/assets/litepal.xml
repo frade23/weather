@@ -1,0 +1,13 @@
+<litepal>
+
+    <dbname value="cool_weather"/>
+
+    <version vaule="1"/>
+
+    <list>
+        <mapping class="com.example.asus.weather.db.Province"/>
+        <mapping class="com.example.asus.weather.db.City"/>
+        <mapping class="com.example.asus.weather.db.County"/>
+    </list>
+
+</litepal>
